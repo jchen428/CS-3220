@@ -1,0 +1,133 @@
+Restore Archived Project report for Project
+Wed Apr 19 00:17:58 2017
+Quartus II 64-Bit Version 14.0.0 Build 200 06/17/2014 SJ Web Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Restore Archived Project Summary
+  3. Restore Archived Project Messages
+  4. Files Restored
+  5. Files Not Restored
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2014 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus II License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++-------------------------------------------------------------------------+
+; Restore Archived Project Summary                                        ;
++---------------------------------+---------------------------------------+
+; Restore Archived Project Status ; Successful - Wed Apr 19 00:17:58 2017 ;
+; Revision Name                   ; Project                               ;
+; Top-level Entity Name           ; Project                               ;
+; Family                          ; Cyclone V                             ;
++---------------------------------+---------------------------------------+
+
+
++-----------------------------------+
+; Restore Archived Project Messages ;
++-----------------------------------+
+Info: Successfully restored 'D:/Jesse/Documents/College/CS-3220/Assignment 4/assignment4.qar' into the 'D:/Jesse/Documents/College/CS-3220/Assignment 4/assignment4_restored/' directory
+Info: Generated report 'Project.restore.rpt'
+Info (23030): Evaluation of Tcl script d:/altera/14.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus II 64-Bit Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 333 megabytes
+    Info: Processing ended: Wed Apr 19 00:17:58 2017
+    Info: Elapsed time: 00:00:02
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-------------------------------+
+; Files Restored                ;
++-------------------------------+
+; File Name                     ;
++-------------------------------+
+; qar_info.json                 ;
+; Debug.qsf                     ;
+; Debug_assignment_defaults.qdf ;
+; Pll.cmp                       ;
+; Pll.qip                       ;
+; Pll.sip                       ;
+; Pll.spd                       ;
+; Pll.v                         ;
+; Pll/Pll_0002.qip              ;
+; Pll/Pll_0002.v                ;
+; Pll100.cmp                    ;
+; Pll100.qip                    ;
+; Pll100.sip                    ;
+; Pll100.spd                    ;
+; Pll100.v                      ;
+; Pll100/Pll100_0002.qip        ;
+; Pll100/Pll100_0002.v          ;
+; Pll100_sim/Pll100.vo          ;
+; Pll60.cmp                     ;
+; Pll60.qip                     ;
+; Pll60.sip                     ;
+; Pll60.spd                     ;
+; Pll60.v                       ;
+; Pll60/Pll60_0002.qip          ;
+; Pll60/Pll60_0002.v            ;
+; Pll60_sim/Pll60.vo            ;
+; Pll70.cmp                     ;
+; Pll70.qip                     ;
+; Pll70.sip                     ;
+; Pll70.spd                     ;
+; Pll70.v                       ;
+; Pll70/Pll70_0002.qip          ;
+; Pll70/Pll70_0002.v            ;
+; Pll70_sim/Pll70.vo            ;
+; Pll80.cmp                     ;
+; Pll80.qip                     ;
+; Pll80.sip                     ;
+; Pll80.spd                     ;
+; Pll80.v                       ;
+; Pll80/Pll80_0002.qip          ;
+; Pll80/Pll80_0002.v            ;
+; Pll80_sim/Pll80.vo            ;
+; Pll_sim/Pll.vo                ;
+; Project.qpf                   ;
+; Project.qsf                   ;
+; Project.sdc                   ;
+; Project.v                     ;
+; ProjectTest.v                 ;
+; SevenSeg.v                    ;
+; Test.asm                      ;
+; Test.mif                      ;
+; Test2.asm                     ;
+; Test2.mif                     ;
+; Test_mini.hex                 ;
+; assignment_defaults.qdf       ;
+; fmedian2.asm                  ;
+; fmedian2.mif                  ;
+; xmax.asm                      ;
+; xmax.mif                      ;
++-------------------------------+
+
+
++--------------------+
+; Files Not Restored ;
++--------------------+
+; File Name          ;
++--------------------+
+
+
